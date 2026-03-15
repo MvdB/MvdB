@@ -84,8 +84,8 @@ I lead a cross-functional team responsible for:
 
 ## 📫 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/michael-van-den-berg-1aab94145/  
-- **GitHub:** https://github.com/M-vdBerg  
+- **LinkedIn:** https://www.linkedin.com/in/michael--van-den-berg/  
+- **GitHub:** https://github.com/MvdB  
 
 ---
 
