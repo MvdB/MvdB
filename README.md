@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Michael van den Berg
 
-Senior IT Manager and enterprise technology leader working across IT architecture, AI governance, cybersecurity, and digital strategy.  
-I act in a role comparable to a *principal IT architect* or *technology strategist*, helping organisations align business needs, technology landscapes, and secure digital capabilities.
+Head of Digital Strategy & Development working across **digital strategy, AI platforms, enterprise architecture and technology governance**.
+
+My role combines **strategy, architecture and engineering**:  
+I shape digital and AI strategy, design enterprise platforms and governance structures, and stay hands-on with technology through prototyping and open-source contributions.
 
 ---
 
@@ -19,18 +21,20 @@ I act in a role comparable to a *principal IT architect* or *technology strategi
   <img src="ico_pt_pro.png" width="110" />
 </p>
 
-### In Progress  
+### In Progress
 - **IAPP – AIGP (AI Governance Professional)**
-- **ITIL 5 - Bridge Course**
+- **ITIL 5 – Bridge Course**
 
 ---
 
-## 🔭 What I’m currently working on
+## 🔭 Current Focus
 
-- Designing and operating a **central organisational AI platform**  
-- Establishing **AI governance**, including risk assessment, lifecycle processes and compliance controls  
-- Defining **enterprise architecture principles** for secure, scalable IT  
-- Supporting digital transformation and IT modernisation initiatives  
+My current work centres around building sustainable digital and AI capabilities within organisations.
+
+- Designing and operating a **central organisational AI platform**
+- Establishing **AI governance frameworks**, including risk assessment, lifecycle management and compliance controls
+- Defining **enterprise architecture principles** for secure and scalable IT
+- Supporting **digital transformation and technology modernisation**
 
 ---
 
@@ -38,32 +42,44 @@ I act in a role comparable to a *principal IT architect* or *technology strategi
 
 I lead a cross-functional team responsible for:
 
-- Requirements engineering & demand management  
-- GIS systems, ETL processes and business intelligence  
-- Enterprise architecture & EAM practice (LeanIX)  
+- Requirements engineering and demand management  
+- GIS systems, ETL pipelines and business intelligence  
+- Enterprise architecture practice and EAM (LeanIX)  
 - Solution architecture and technology evaluation  
-- Security, quality and compliance within the IT portfolio  
+- Security, quality and compliance across the IT portfolio  
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Strategy – Architecture – Engineering
+
+My work typically operates across three layers:
+
+**Strategy**  
+Shaping digital and AI strategy and aligning technology initiatives with organisational goals.
+
+**Architecture**  
+Designing enterprise platforms, governance models and system landscapes.
+
+**Engineering**  
+Building prototypes, exploring technologies and contributing to open-source projects to stay close to real operational constraints.
+
+---
+
+## 🧰 Technology Landscape
 
 ### AI & Automation
 - vLLM deployment of small to medium open-source LLMs  
 - Custom model training & LoRA/adapter fine-tuning  
+- RAG systems and LLM integration patterns  
 - Python-based automation and integration  
-- Docker for containerised AI services
-
-### Enterprise & Operations
-- SAP S/4HANA & Fiori fundamentals  
-- SAP BTP (architectural understanding)  
-- PowerShell, Bash, Linux administration
+- Docker/Kubernetes-based AI services
 
 ### Architecture & Governance
+- Digital Strategy & Roadmap
 - Enterprise Architecture with LeanIX  
 - ITIL 4 practices  
 - AI governance & risk assessment  
-- ISO/IEC 42001 (in progress)
+- ISO/IEC 42001 (AI Management Systems)
 
 ### Languages
 - Python  
@@ -72,13 +88,9 @@ I lead a cross-functional team responsible for:
 
 ---
 
-## 🎓 Selected Professional Training
+## 🌐 Open Source Interests
 
-- ITSec Professional Penetration Testing (ICO-CERT)  
-- ITSec Foundation – IT Security & Forensics (TÜV SÜD)  
-- ITIL® 4 Strategic Leader (SL, DITS, DPI)  
-- IHK Examination Board Member (IT Professions)  
-- IHK AEVO – Certified Trainer  
+I occasionally contribute to projects in the AI and data governance ecosystem.
 
 ---
 
