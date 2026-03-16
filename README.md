@@ -11,7 +11,6 @@ I shape digital and AI strategy, design enterprise platforms and governance stru
 
 <p align="left">
   <img src="42001leadimplementer.png" width="110" />
-  <img src="42001foundation.png" width="110" />
   <img src="itil4_sl.png" width="110" />
   <img src="ico_pt_prof.png" width="110" />
 </p>
