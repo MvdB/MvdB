@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael van den Berg
 
-Head of Digital Strategy & Development working across **digital strategy, AI platforms, enterprise architecture and technology governance**.
+Head of Digital Strategy & Development focusing on digital strategy, AI platforms, enterprise architecture and technology governance.
 
 My role combines **strategy, architecture and engineering**:  
 I shape digital and AI strategy, design enterprise platforms and governance structures, and stay hands-on with technology through prototyping and open-source contributions.
@@ -13,12 +13,7 @@ I shape digital and AI strategy, design enterprise platforms and governance stru
   <img src="42001leadimplementer.png" width="110" />
   <img src="42001foundation.png" width="110" />
   <img src="itil4_sl.png" width="110" />
-  <img src="itil4_f.png" width="110" />
-  <img src="itil4_dits.png" width="110" />
-  <img src="itil4_dpi.png" width="110" />
-  <img src="ai_u.png" width="110" />
   <img src="ico_pt_prof.png" width="110" />
-  <img src="ico_pt_pro.png" width="110" />
 </p>
 
 ### In Progress
@@ -90,7 +85,8 @@ Building prototypes, exploring technologies and contributing to open-source proj
 
 ## 🌐 Open Source Interests
 
-I occasionally contribute to projects in the AI and data governance ecosystem.
+I occasionally contribute to projects in the AI and data governance ecosystem,
+for example around PII detection, LLM guardrails and secure AI platform patterns.
 
 ---
 
